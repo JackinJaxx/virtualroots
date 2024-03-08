@@ -1,0 +1,298 @@
+[
+    {
+        "id": 1,
+        "name": "Corn",
+        "scientific_name" : "Zea mays",
+        "temperature" : "26.7 a 29.4 °C",
+        "temperature_img" : "temp_medium",
+        "description": "A cereal plant that yields large grains, or kernels, set in rows on a cob.",
+        "image": "maizIcon",
+        "ground" : {
+            "id" : 1,
+            "name": "Loam soil",
+            "ph": 6.5,
+            "image" : "franco"
+        },
+        "etapas" : [
+            {
+                "id": 1,
+                "tiempo": "1 año",
+                "imagen" : "maiz_1",
+                "water" : "20 a 33 mm",
+                "plaga" : "Gusano cogollero",
+                "imagen_plaga" : "cogollero"
+            },
+            {
+                "id": 2,
+                "tiempo": "2 año",
+                "imagen" : "Etapa2Maiz",
+                "water" : "20 a 33 mm",
+                "plaga": "Picudo",
+                "imagen_plaga" : "picudo"
+            },{
+                "id": 3,
+                "tiempo": "3 año",
+                "imagen" : "Etapa3Maiz",
+                "water" : "20 a 33 mm",
+                "plaga" : "Araña roja",
+                "imagen_plaga" : "araña"
+            },
+            {
+                "id": 4,
+                "tiempo": "4 año",
+                "imagen" : "Etapa4Maiz",
+                "water" : "20 a 33 mm",
+                "plaga" : "Gusano elotero",
+                "imagen_plaga" : "elotero"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Rambutan",
+        "scientific_name" : "Nephelium lappaceum",
+        "temperature" : "20 a 25 °C",
+        "temperature_img" : "temp_high",
+        "description": "The rambutan is a tropical fruit native to Southeast Asia. It is similar in appearance to lychee, with a hairy outer skin and sweet, juicy flesh inside. The fruit is typically red or yellow when ripe and is enjoyed fresh or used in various culinary dishes and beverages.",
+        "image": "rambutanIcon",
+        "ground" : {
+            "id" : 1,
+            "name": "Loam soil",
+            "ph": 6.5,
+            "image" : "franco"
+        },
+        "etapas" : [
+            {
+                "id": 1,
+                "tiempo": "1 año",
+                "imagen" : "corn_1",
+                "water" : "20 a 33 mm",
+                "plaga" : "Gusano elotero",
+                "imagen_plaga" : "elotero",
+                
+            },
+            {
+                "id": 2,
+                "tiempo": "1 año",
+                "imagen" : "corn_1",
+                "water" : "20 a 33 mm",
+                "plaga": "Picudo",
+                "imagen_plaga" : "picudo",
+                
+            },{
+                "id": 3,
+                "tiempo": "1 año",
+                "imagen" : "corn_1",
+                "water" : "20 a 33 mm",
+                "plaga" : "Gusano cogollero",
+                "imagen_plaga" : "cogollero",
+                
+            },
+            {
+                "id": 4,
+                "tiempo": "1 año",
+                "imagen" : "corn_1",
+                "water" : "20 a 33 mm",
+                "plaga" : "Gusano cogollero",
+                "imagen_plaga" : "cogollero",
+                
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Cacao",
+        "scientific_name" : "Theobroma cacao",
+        "temperature" : "22 a 26 °C",
+        "temperature_img" : "temp_medium",
+        "description": "Base for chocolate production, mainly cultivated in the southeast.",
+        "image": "cacaoIcon",
+        "ground" : {
+            "id": 2,
+            "name": "Loam silty",
+            "ph": 6.5,
+            "image" : "franco_limoso"
+        },
+        "etapas" : [
+            {
+                "id": 1,
+                "tiempo": "1 año",
+                "imagen" : "Etapa1Cacao",
+                "water" : "20 a 33 mm",
+                "plaga" : "Gusano cogollero",
+                "imagen_plaga" : "cogollero",
+                
+            },
+            {
+                "id": 2,
+                "tiempo": "1 año",
+                "imagen" : "Etapa2Cacao",
+                "water" : "20 a 33 mm",
+                "plaga" : "Gusano cogollero",
+                "imagen_plaga" : "cogollero",
+                
+            },{
+                "id": 3,
+                "tiempo": "1 año",
+                "imagen" : "Etapa3Cacao",
+                "water" : "20 a 33 mm",
+                "plaga" : "Gusano cogollero",
+                "imagen_plaga" : "cogollero",
+                
+            }
+        ]
+        
+        
+    },
+    {
+        "id": 4,
+        "name": "Banana",
+        "scientific_name" : "Musa × paradisiaca",
+        "temperature" : "26 a 27 °C",
+        "temperature_img" : "temp_medium",
+        "description": "Fruit widely consumed and cultivated, especially in southern Mexico.",
+        "image": "bananaIcon",
+        "ground" : {
+            "id" : 4,
+            "name": "Loam clay",
+            "ph": 6.5,
+            "image" : "franco_arcilloso"
+        },
+        "etapas" : [
+            {
+                "id": 1,
+                "tiempo": "1 año",
+                "imagen" : "maiz_1",
+                "water" : "20 a 33 mm",
+                "plaga" : "Gusano cogollero",
+                "imagen_plaga" : "cogollero",
+                
+            },
+            {
+                "id": 2,
+                "tiempo": "2 año",
+                "imagen" : "maiz_2",
+                "water" : "20 a 33 mm",
+                "plaga": "Picudo",
+                "imagen_plaga" : "picudo",
+                
+            },{
+                "id": 3,
+                "tiempo": "3 año",
+                "imagen" : "maiz_3",
+                "water" : "20 a 33 mm",
+                "plaga" : "Araña roja",
+                "imagen_plaga" : "araña",
+                
+            },
+            {
+                "id": 4,
+                "tiempo": "4 año",
+                "imagen" : "maiz_4",
+                "water" : "20 a 33 mm",
+                "plaga" : "Gusano elotero",
+                "imagen_plaga" : "elotero",
+                
+            }
+        ]
+        
+    },
+    {
+        "id": 5,
+        "name": "Papaya",
+        "scientific_name" : "Carica papaya",
+        "temperature" : "20 a 22 °C",
+        "temperature_img" : "temp_low",
+        "description": "Tropical fruit cultivated on the coasts, popular in the local diet.",
+        "image": "papayaIcon",
+        "ground" : {
+            "id" : 1,
+            "name": "Loam soil",
+            "ph": 6.5,
+            "image" : "franco"
+        },
+        "etapas" : [
+            {
+                "id": 1,
+                "tiempo": "1 año",
+                "imagen" : "maiz_1",
+                "water" : "20 a 33 mm",
+                "plaga" : "Gusano cogollero",
+                "imagen_plaga" : "cogollero",
+                
+            },
+            {
+                "id": 2,
+                "tiempo": "2 año",
+                "imagen" : "maiz_2",
+                "water" : "20 a 33 mm",
+                "plaga": "Picudo",
+                "imagen_plaga" : "picudo",
+                
+            },{
+                "id": 3,
+                "tiempo": "3 año",
+                "imagen" : "maiz_3",
+                "water" : "20 a 33 mm",
+                "plaga" : "Araña roja",
+                "imagen_plaga" : "araña",
+                
+            }
+        ]
+        
+        
+    },
+    {
+        "id": 6,
+        "name": "Mango",
+        "scientific_name" : "Mangifera indica",
+        "temperature" : "22 a 27 °C",
+        "temperature_img" : "temp_low",
+        "description": "Very popular tropical fruit widely cultivated in various regions of the country.",
+        "image": "mangoIcon",
+        "ground" : {
+            "id" : 1,
+            "name": "Loam soil",
+            "ph": 6.5,
+            "image" : "franco"
+        },
+        "etapas" : [
+            {
+                "id": 1,
+                "tiempo": "1 año",
+                "imagen" : "maiz_1",
+                "water" : "20 a 33 mm",
+                "plaga" : "Gusano cogollero",
+                "imagen_plaga" : "cogollero",
+                
+            },
+            {
+                "id": 2,
+                "tiempo": "2 año",
+                "imagen" : "maiz_2",
+                "water" : "20 a 33 mm",
+                "plaga": "Picudo",
+                "imagen_plaga" : "picudo",
+               
+            },{
+                "id": 3,
+                "tiempo": "3 año",
+                "imagen" : "maiz_3",
+                "water" : "20 a 33 mm",
+                "plaga" : "Araña roja",
+                "imagen_plaga" : "araña",
+                
+            },
+            {
+                "id": 4,
+                "tiempo": "4 año",
+                "imagen" : "maiz_4",
+                "water" : "20 a 33 mm",
+                "plaga" : "Gusano elotero",
+                "imagen_plaga" : "elotero",
+                
+            }
+        ]
+        
+    }
+]
